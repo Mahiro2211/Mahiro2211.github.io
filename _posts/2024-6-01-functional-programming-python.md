@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Python函数式编程窥探(Fluent Python)
+title: Python函数式编程窥探
 categories: [cate1,cate2]
-description: 阅读Fluent Python所写的笔记
+description: 阅读FluentPython所写的笔记
 keywords: Python
 mermaid: false
 sequence: false
