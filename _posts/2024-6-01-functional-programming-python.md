@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python函数式编程窥探(Fluent Python)
-categories: [Python]
+categories: []
 description: 阅读Fluent Python所写的笔记
 keywords: Python
 mermaid: false
