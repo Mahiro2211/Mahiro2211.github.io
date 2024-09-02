@@ -17,9 +17,6 @@ permalink: /about/
 * 能够将度量学习等其他领域的相关算法迁移到其他方向，验证是否能提升性能。
 * 能通过查阅相关技术文档快速入门一门新的框架和技术
 
-## 我喜欢把学习到的东西整理成博客，之前的博客全部都放到了csdn上了：[链接直达](https://blog.csdn.net/douhuanmin123)
-
-
 ## 联系
 
 Github:[Mahiro2211](https://github.com/Mahiro2211)
