@@ -1,19 +1,12 @@
-- name: Software Engineer Keywords
+- name: 我擅长的编程语言
   keywords:
-      - Java
+      - Python(熟悉Pytorch,pandas等成熟的库,可以编写自动化任务的脚本)
       - C++
-      - Python
-      - Design Patterns
+      - JavaScript
 
-- name: Mobile Developer Keywords
+- name: 本科期间在潍坊学院的多媒体检索实验室做过一段时间的科研实习
   keywords:
-      - Android
-      - Reverse Engineering
+      - 计算机视觉(Computer Vision)
+      - 图像检索(Image Retrieval)
+      - 深度哈希(Deep Hashing)
 
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg

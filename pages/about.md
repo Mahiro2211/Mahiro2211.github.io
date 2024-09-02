@@ -8,26 +8,25 @@ menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+# 我是谁
+在山东的一名计算机专业的本科生，我喜欢使用python和javascript构建项目
+# 我做了什么
+我在大一和大二两个学年中学习了Python(了解Python的高级特性)并且做了一些深度学习相关的科研训练(主要是计算机视觉中的图像检索相关的任务)
+## 我可以做
+* 可以独立编写数据集加载脚本的能力，尽量去提升每一项任务的效率。
+* 能够将度量学习等其他领域的相关算法迁移到其他方向，验证是否能提升性能。
+* 能通过查阅相关技术文档快速入门一门新的框架和技术
 
-仰慕「优雅编码的艺术」。
+大三学年开始我的精力都将放在备考研究生考试。
 
-坚信熟能生巧，努力改变人生。
+## 我喜欢把学习到的东西整理成博客，之前的博客全部都放到了csdn上了：[链接直达](https://blog.csdn.net/douhuanmin123)
+
 
 ## 联系
 
-<ul>
-{% for website in site.data.social %}
-<li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
-{% endfor %}
-{% if site.url contains 'mazhuang.org' %}
-<li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
-</li>
-{% endif %}
-</ul>
-
+Github:[Mahiro2211](https://github.com/Mahiro2211)
+Mail:dj4569103@gmail.com
+WeChat:YUTT6678
 
 ## Skill Keywords
 
