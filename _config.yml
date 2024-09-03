@@ -120,7 +120,7 @@ index:
         # 首页 banner 区背景颜色
         background-color: "#4183c4"
         # 首页 banner 区背景图片
-        # background-image: "/assets/images/octicons-bg.png"
+        background-image: "assets/images/backgroud.jpg"
         # background-repeat: "no-repeat"
         # background-size: "cover"
 
