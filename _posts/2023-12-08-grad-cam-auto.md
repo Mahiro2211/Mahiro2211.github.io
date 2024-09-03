@@ -59,9 +59,8 @@ target_Layer3 = [vit.block[-1].norm1,vit.block.norm2]
  ```
 ### 为什么我们选择LayerNorm作为目标层？ 
 ### Reference: On the Expressivity Role of LayerNorm in Transformer's Attention (ACL 2023).
-<p>The reason may be like this as shown in the picture</p>
 
-![解释](https://i-blog.csdnimg.cn/blog_migrate/ba54f0d12cee47fb781cf0cd75219d06.png)
+![解释](https://github.com/Mahiro2211/GradCAM_Automation/assets/130811701/eba4b15e-bda6-4f2d-b4b0-8999385f787f)
 
 
 
@@ -75,7 +74,7 @@ target_Layer3 = [vit.block[-1].norm1,vit.block.norm2]
 
 ### 使用EigenCam示例
 
-![示例](https://i-blog.csdnimg.cn/blog_migrate/79a933298151bc3dcd0c57479d236d51.png)
+![示例](https://github.com/Mahiro2211/GradCAM_Automation/assets/130811701/4fb5c2df-da8c-4748-9a28-7bf39f3d8b1b)
 
 
 
