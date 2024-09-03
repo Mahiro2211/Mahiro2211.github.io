@@ -61,7 +61,7 @@ target_Layer3 = [vit.block[-1].norm1,vit.block.norm2]
 ### Reference: On the Expressivity Role of LayerNorm in Transformer's Attention (ACL 2023).
 <p>The reason may be like this as shown in the picture</p>
 
-![解释](assets\images\cam_post\cam2.png)
+![解释](https://i-blog.csdnimg.cn/blog_migrate/ba54f0d12cee47fb781cf0cd75219d06.png)
 
 
 
@@ -75,7 +75,7 @@ target_Layer3 = [vit.block[-1].norm1,vit.block.norm2]
 
 ### 使用EigenCam示例
 
-![示例](assets\images\cam_post\cam_1.png)
+![示例](https://i-blog.csdnimg.cn/blog_migrate/79a933298151bc3dcd0c57479d236d51.png)
 
 
 
