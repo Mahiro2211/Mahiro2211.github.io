@@ -11,10 +11,6 @@ mathjax: false
 mindmap: false
 mindmap2: false
 ---
-
-Content here
-
-
 # 目录
 1. [函数式编程进阶：用函数实现设计模式](#函数式编程进阶用函数实现设计模式)
    - [案例实现：构建“策略”模式](#案例实现构建策略模式)
