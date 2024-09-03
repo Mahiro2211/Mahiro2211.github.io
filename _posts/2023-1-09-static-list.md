@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 静态链表
-categories: [数据结构]
+categories: [DataStructrue]
 description: 静态链表
 keywords: 链表, 基础数据结构
 mermaid: false
