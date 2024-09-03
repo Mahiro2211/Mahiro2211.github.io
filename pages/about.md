@@ -7,9 +7,6 @@ comments: true
 menu: 关于
 permalink: /about/
 ---
-
-以下是优化后的文本结构，并添加了目录：
-
 # 个人简介
 
 在山东的一名计算机专业的本科生，我喜欢使用Python和JavaScript构建项目。  
