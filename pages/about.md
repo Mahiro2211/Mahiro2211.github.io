@@ -24,12 +24,7 @@ permalink: /about/
 我在大一和大二两个学年中学习了Python（了解Python的高级特性），并且做了一些深度学习相关的科研训练（主要是计算机视觉中的图像检索相关的任务）。
 
 ## 目录
-<<<<<<< HEAD
-1. [我目前会的技能](#我目前会的技能)
-2. [项目介绍](#在实验室期间完成的开源代码)
-=======
 1. [项目介绍](#在实验室期间完成的开源代码)
->>>>>>> 23001de80458865db0a8457c43f624e4fc34a6a2
    - [GradCam-Auto](#1-gradcam-auto)
    - [CrossHash](#2-crosshash)
    - [Auto-Retrieval-Util](#3-auto-retrieval-util)
