@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VimNerdFont常用快捷键
+title: VimNerdTree常用快捷键
 categories: [Vim]
 description: 常看就熟练了
 keywords: Vim
