@@ -16,7 +16,7 @@ mindmap2: false
 2. [numpy 中创建对角矩阵](#numpy-中创建对角矩阵)
 3. [Ipython快捷键](#ipython快捷键)
 4. [魔术命令](#魔术命令)
-5. [python中的赋值号](#python中的赋值号)
+5. [pyth on中的赋值号](#python中的赋值号)
 6. [is 和 == 的区别](#is-和--的区别)
 7. [python 中的字符串](#python-中的字符串)
 8. [python 中的类型转换](#python-中的类型转换)
