@@ -83,4 +83,43 @@ d0            删除光标位置到本行开头
 
 tips：3dd代表删除三行，聪明的你一定早就知道了
 
+<<<<<<< HEAD
+=======
+# 不移动指针的情况下，向上向下滚动
+在 Vim 中，可以使用 `Ctrl + e` 和 `Ctrl + y` 来实现不移动光标的情况下让页面向下滚动一行。[1](https://stackoverflow.com/questions/3458689/how-to-move-screen-without-moving-cursor-in-vim)
+
+要向下滚动多行，可以使用 `n Ctrl + e` 或 `n Ctrl + y`，其中 `n` 代表要滚动的行数。[1](https://stackoverflow.com/questions/3458689/how-to-move-screen-without-moving-cursor-in-vim)
+
+例如，要向下滚动 5 行，可以使用 `5 Ctrl + e` 或 `5 Ctrl + y`。[1](https://stackoverflow.com/questions/3458689/how-to-move-screen-without-moving-cursor-in-vim)
+
+此外，还可以使用 `Ctrl + d` 和 `Ctrl + u` 来实现半页滚动，以及 `Ctrl + f` 和 `Ctrl + b` 来实现整页滚动。[1](https://stackoverflow.com/questions/3458689/how-to-move-screen-without-moving-cursor-in-vim)
+
+需要注意的是，`Ctrl + e` 和 `Ctrl + y` 仅在光标位于屏幕边缘时才会移动光标。[1](https://stackoverflow.com/questions/3458689/how-to-move-screen-without-moving-cursor-in-vim)
+
+# Vim删除到下一个空格
+在 Vim 中，你可以使用以下命令直接删除到下一个空格：
+
+* **`dt `**：这个命令会删除从当前光标位置到下一个空格之间的所有字符，但不包括空格本身。[1](https://stackoverflow.com/questions/1607904/vim-deleting-from-current-position-until-a-space)
+* **`df `**：这个命令会删除从当前光标位置到下一个空格之间的所有字符，包括空格本身。[1](https://stackoverflow.com/questions/1607904/vim-deleting-from-current-position-until-a-space)
+
+**解释：**
+
+* `d`：代表删除（delete）操作。
+* `t`：代表“直到”（till）操作，它会将光标移动到下一个指定字符之前。
+* `f`：代表“找到”（find）操作，它会将光标移动到下一个指定字符处。
+* ` `：代表空格字符。
+
+**示例：**
+
+假设你有一行文本：
+
+```
+This is a line of text.
+```
+
+你的光标位于 `is` 的 `i` 上。
+
+* 如果你输入 `dt `，则会删除 `is a`，留下 `This  line of text.`。
+* 如果你输入 `df `，则会删除 `is a `，留下 `This line of text.`。
+>>>>>>> 0061e2a5af001df7de9f34fc5052db8359c5ffe2
 
