@@ -7,17 +7,6 @@ comments: true
 menu: 关于
 permalink: /about/
 ---
-## 技能关键词
-{% for skill in site.data.skills %}
-### {{ skill.name }}
-<div class="btn-inline">
-{% for keyword in skill.keywords %}
-<button class="btn btn-outline" type="button">{{ keyword }}</button>
-{% endfor %}
-</div>
-{% endfor %}
-
-
 ##  👋  关于我
 > 潍坊学院的计算机科学与技术专业的一名本科生，我喜欢使用Python和JavaScript来写东西
 > 我在大一和大二两个学年中学习了Python（了解Python的高级特性），并且做了一些深度学习相关的科研训练（主要是计算机视觉中的图像检索相关的任务）。
