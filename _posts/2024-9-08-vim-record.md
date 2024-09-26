@@ -18,7 +18,7 @@ topmost: false
 # 删除指定括号里的内容
 di" ---- 删除""中的内容
 
-# 如何注释代码想IDE一样
+# 如何注释代码像IDE一样
 1. 用插件
 vim-commentary：这是一个非常流行的插件，可以轻松地注释和取消注释代码。安装后，你可以使用 gc 命令来注释选中的行。例如：
 选择多行后，按 gc 注释这些行。
@@ -83,8 +83,6 @@ d0            删除光标位置到本行开头
 
 tips：3dd代表删除三行，聪明的你一定早就知道了
 
-<<<<<<< HEAD
-=======
 # 不移动指针的情况下，向上向下滚动
 在 Vim 中，可以使用 `Ctrl + e` 和 `Ctrl + y` 来实现不移动光标的情况下让页面向下滚动一行。[1](https://stackoverflow.com/questions/3458689/how-to-move-screen-without-moving-cursor-in-vim)
 
@@ -121,5 +119,4 @@ This is a line of text.
 
 * 如果你输入 `dt `，则会删除 `is a`，留下 `This  line of text.`。
 * 如果你输入 `df `，则会删除 `is a `，留下 `This line of text.`。
->>>>>>> 0061e2a5af001df7de9f34fc5052db8359c5ffe2
 
